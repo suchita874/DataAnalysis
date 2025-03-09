@@ -13,8 +13,8 @@ source: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.html
 
 ## Functions:
 * apply() : The apply() function is a powerful method in Pandas that allows you to apply a function to each element of the Series (or DataFrame). Here’s how it works:
-- apply() takes a function (in this case, handleRate) as an argument.
-- It applies the function handleRate to each element in the 'rate' Series, one by one.
+apply() takes a function as an argument.<br>
+  It applies the function to each element in the Series, one by one.
 * groupby() : This function in Pandas is used to group the data by a specific column or columns. It will create a separate group for each unique category.
 
 ## Visualization
